@@ -2,7 +2,7 @@
 
 C POSIX RS232 null-modem cable tester
 
-Part of final-year mechatronics engineering project used to debug null-modem open circuits. 
+Part of final-year mechatronics engineering project used to find open circuits in null-modem cables.
 
 Hardware:
 
