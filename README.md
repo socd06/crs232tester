@@ -1,7 +1,8 @@
 # crs232tester
 
 C POSIX RS232 null-modem cable tester
-Writen in 2011. Part of final-year mechatronics engineering project used to debug null-modem open circuits. 
+
+Part of final-year mechatronics engineering project used to debug null-modem open circuits. 
 
 Hardware:
 
